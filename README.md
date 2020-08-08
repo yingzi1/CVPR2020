@@ -48,7 +48,7 @@
 论文：https://arxiv.org/abs/1912.09393
 
 
-目标检测和分割
+三、目标检测和分割
 1.《Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector》
 论文：https://arxiv.org/abs/1908.01998
 
@@ -80,12 +80,12 @@
 论文：https://arxiv.org/abs/2001.00309
 
 
-视觉目标跟踪
+四、视觉目标跟踪
 1.《ROAM: Recurrently Optimizing Tracking Model》
 论文：https://arxiv.org/abs/1907.12006
 
 
-三维点云&3D重建
+五、三维点云&3D重建
 1.《PointAugment: an Auto-Augmentation Framework for Point Cloud Classification》
 论文：https://arxiv.org/abs/2002.10876
 代码：https://github.com/liruihui/PointAugment/
